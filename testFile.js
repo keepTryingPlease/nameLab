@@ -4,7 +4,8 @@ let array = [
     {name: 'Ian', likes: 'Rock Climbing'},
     {name: 'Joe', likes: 'Playing Bass'},
     {name: 'Kevin', likes: 'Making Art'},
-    {name: 'Leon', likes: 'Graphic Design'}
+    {name: 'Leon', likes: 'Graphic Design'},
+    {name: 'Wuj', likes: 'Fashion'}
 ]
 
 for (let i = 0; i < array.length; i++) {
